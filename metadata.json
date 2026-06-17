@@ -1,0 +1,6 @@
+{
+  "name": "AR Laser Tag",
+  "description": "An interactive, high-speed AR laser tag game utilizing real-time HSV color thresholding in a fixed crosshair to detect high-interest targets (head, body, limbs) without heavy AI models.",
+  "requestFramePermissions": ["android.permission.CAMERA"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
